@@ -1,4 +1,6 @@
 # fish-weight-estimation
 
-Setup: 
-Install "pandas" library
+## Setup: 
+1. Install these python libraries: "matplotlib", "pandas", "scikit-learn"
+
+INCLUDE ALL OTHER LIBRARIES USED
