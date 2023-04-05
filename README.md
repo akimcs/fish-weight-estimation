@@ -1,3 +1,4 @@
 # fish-weight-estimation
 
-test
+Setup: 
+Install "pandas" library
