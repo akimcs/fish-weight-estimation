@@ -1,20 +1,27 @@
 # fish-weight-estimation
 
-The most relevant files in the project directory are: 
-1. main.py
-2. fish_data_processed.csv
-3. visuals folder
-4. README.md
-5. Task 1 writeup
-6. Task 2 writeup
+## Description:
+A Python project that uses machine learning to estimate the weight of a fish.
 
-## Setup: 
-1. Install these python libraries: "matplotlib", "pandas", "scikit-learn"
+A linear regression model is trained using existing data. The user inputs five length measurements of a fish and the application outputs the predicted weight of the fish. 
 
-INCLUDE ALL OTHER LIBRARIES USED
+**Features:**
+* the ability to input a fish's vertical length, diagonal length, cross length, height, and diagonal width and receive its predicted weight in grams. 
+* generation of visuals that show and/or describe the data and algorithm. 
 
-Link to Dataset:
-https://www.kaggle.com/datasets/aungpyaeap/fish-market
+## Project Screenshots:
+To view the 3 visuals of the project, visit the [visuals](/visuals) folder.
 
-Author: Austin Kim
-Date: April 10, 2023
+
+
+## Installation and Setup: 
+Refer to the "User Guide" in [Task 2 Writeup](/task_2_documentation.docx).
+
+## Tools Used:
+* Kaggle Dataset: [link](https://www.kaggle.com/datasets/aungpyaeap/fish-market)
+* PyCharm Community Edition 2022.2.3
+* Python 3.11.3 (64-bit)
+
+## Details:
+* Author: Austin Kim
+* Date: April 10, 2023
