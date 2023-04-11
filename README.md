@@ -18,10 +18,9 @@ To view the 3 visuals of the project, visit the [visuals](/visuals) folder.
 Refer to the "User Guide" in [Task 2 Writeup](/task_2_documentation.docx).
 
 ## Tools Used:
-* Kaggle Dataset: [link](https://www.kaggle.com/datasets/aungpyaeap/fish-market)
+* Kaggle Dataset: [fish_data_raw.csv](/fish_data_raw.csv) OR [link](https://www.kaggle.com/datasets/aungpyaeap/fish-market) to Kaggle download
 * PyCharm Community Edition 2022.2.3
 * Python 3.11.3 (64-bit)
 
 ## Details:
 * Author: Austin Kim
-* Date: April 10, 2023
